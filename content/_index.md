@@ -25,7 +25,7 @@ title="Latest News"
 title="Why participate"
    data_path="testimonies.toml"
 )%}
-By sharing your thoughts and outlook on current and emerging digital privacy issues, your participation will contribute to informing policymakers and companies internationally about AI and digital privacy trends and concerns and how they can best be addressed in policy and technological design.
+By sharing your thoughts and outlook on current and emerging digital privacy issues, your participation will contribute to informing policymakers and companies internationally about AI and digital privacy trends and concerns and how they can best be addressed in policy <br> and technological design.
 {% end%}
 {{ 
 mailchimp_form(top_text="Subscribe to receive our latest research updates.",subscribe_text="I would like to receive email communications from TAPP and agree with the data protection regulations and the described processing of personal data there.")
