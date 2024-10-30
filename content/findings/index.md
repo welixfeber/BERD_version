@@ -20,6 +20,6 @@ extra.main_nav = true
         <a href="wave4">Wave 5 (<i>foreseen November 2024</i>&nbsp)</a>
         &nbsp
         &nbsp
-        <img src="/tapp/assets/arrow_away.svg" class="inline-arrow">
+        <!-- <img src="/tapp/assets/arrow_away.svg" class="inline-arrow"> -->
     </div>
 {% end %}
