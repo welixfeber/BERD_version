@@ -26,7 +26,7 @@ placeholder
                     <path d="M11.5818 0.368914L-0.000976562 12.0476L1.93586 14.0005L13.5186 2.32179L11.5818 0.368914Z" fill="#071A2D"/>
                 </svg>
             </span>
-            <a href="https://github.com/FelixHenninger/tapp/blob/main/content/findings/wave4/Wave%204%20Data%20Report.pdf" download class="text-blue-500">
+            <a href="https://github.com/TransatlanticPrivacyPerceptions/website/blob/main/content/findings/wave4/Wave%204%20Data%20Report.pdf" download class="text-blue-500">
                 Download here (PDF)
             </a>
         </div>
@@ -71,7 +71,7 @@ This report presents the findings from the fourth wave of the Transatlantic Priv
 In the privacy arena, actors from academia, policy, law, tech, journalism, and civil society influence
 debates, policies, and practices. The size and diversity of sectors, regional, legal, and cultural contexts in the privacy arena presents a challenge for systematically synthesizing its members' conversations and opinions. The Transatlantic Privacy Perceptions (TAPP) project aims to help companies and policymakers learn more about current and future digital privacy concerns and how they can best be addressed through legislation and technology. To this end, it follows and analyzes developments in privacy actors’ attitudes, expectations, and concerns around current and emerging issues in digital privacy over time. It is an interdisciplinary research project in privacy, survey methodology, and complex sampling techniques at the Universities of Maryland (UMD) and Munich (LMU).
 
-Conducted since 2022, the survey gathers insights from privacy experts across the United States and Europe to assess the state of data protection, the performance of tech companies, and the impact of AI on privacy policies. During the fourth wave conducted in May 2024, 82 participants responded to questions about the adoption and integration of frameworks and guidelines of AI systems in their work. 
+Conducted since 2022, the survey gathers insights from privacy experts across the United States and Europe to assess the state of data protection, the performance of tech companies, and the impact of AI on privacy policies. During the fourth wave conducted in May 2024, 82 participants responded to questions about the adoption and integration of frameworks and guidelines of AI systems in their work.
 
 The latest findings from the Transatlantic Privacy Perception panel highlight that while AI is widely used in professional settings, many organizations still lack formal frameworks to govern its use. Most AI governance frameworks that do exist are developed internally. Although there is a growing familiarity with responsible AI principles, there remains a noticeable divide in confidence regarding organizations' ability to address AI-related privacy challenges, emphasizing the need for stronger governance and privacy protections.
 
@@ -80,7 +80,7 @@ The latest findings from the Transatlantic Privacy Perception panel highlight th
 {{ anchor(title="Data Collection")}}
 {% block_1c_nopad(title="2 Data Collection" bg="white") %}
 
-The Wave 4 questionnaire focused on organizational adoption and integration of AI systems (see Appendix for complete questionnaire). Following approval by the University of Maryland Institutional Review Board, fielding began 17 April 2024 and continued until 15 May 2024. 
+The Wave 4 questionnaire focused on organizational adoption and integration of AI systems (see Appendix for complete questionnaire). Following approval by the University of Maryland Institutional Review Board, fielding began 17 April 2024 and continued until 15 May 2024.
 
 Programming and survey distribution were conducted through Qualtrics, with personalized emails used to invite 895 individuals. In addition, survey links were shared via TAPP project LinkedIn posts. Invited individuals who had not yet participated in Wave 4 received a first reminder on 1 May 2024 and a final reminder on 13 May 2024.
 
@@ -92,7 +92,7 @@ A total of 895 individuals received email invitations. Of these, 39 returning re
 {{ anchor(title="Findings")}}
 {% block_1c_nopad(title="3 Findings" bg="grey") %}
 **3.1 Respondents Profile**
-Wave 4 of the TAPP survey received responses from 77 participants. In terms of professional background, 43% are from academia, and 17% are from the tech industry while 12% are from the private sector, but from non-tech industry (Figure 1). 
+Wave 4 of the TAPP survey received responses from 77 participants. In terms of professional background, 43% are from academia, and 17% are from the tech industry while 12% are from the private sector, but from non-tech industry (Figure 1).
 
 <div style="text-align: center; margin-bottom: 40px;">
     <img src="Figure1.png" alt="Figure 1. Respondents composition by sector" style="display: block; width: 100%; max-width: 75%; margin: 60px auto 0;">
