@@ -46,7 +46,7 @@ hidden = """Of course, send us an email at <a href="mailto:info@privacyperceptio
 
 [[accordion]]
 visible = "How can I use the data?"
-hidden = """We're currently transferring the anonymized data from our study to GESIS (Leibniz Institute for the Social Sciences), a German institute that handles social science data. The link to the archived data will be shared here once that's done."""
+hidden = """We have transferred the anonymized data from our study to GESIS (Leibniz Institute for the Social Sciences), a German institute that handles social science data. <a href="https://doi.org/10.4232/1.14198/">Link to data</a>."""
 
 [[accordion]]
 visible = "How many questions are in the questionnaire?"
