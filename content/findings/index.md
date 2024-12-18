@@ -5,7 +5,7 @@ extra.full_hero = false
 extra.main_nav = true
 +++
 
-{% block_1c(title="Take a look at the findings of Wave 4 and Privacy Days presentations" bg="accent") %}
+{% block_1c(title="Take a look at the findings of Wave 4 and 5" bg="accent") %}
 
 
 
