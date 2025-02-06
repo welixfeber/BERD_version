@@ -35,6 +35,12 @@ institution = "University of Maryland"
 image = "photos/Katie.jpg"
 
 [[person]]
+name = "Isabela Coelho"
+role = "Team"
+institution = "University of Maryland"
+image = "photos/Isabela.jpg"
+
+[[person]]
 name = "Wiebke Weber"
 role = "Team"
 institution = "LMU MUNICH"
