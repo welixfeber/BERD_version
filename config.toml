@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://berd-nfdi.github.io/turning-pdfs-into-research-data.io/"
+base_url = "https://welixfeber.github.io/BERD_version/"
+
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
