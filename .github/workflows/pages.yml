@@ -1,0 +1,46 @@
+name: 🏗️ Build & Deploy Zola to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  pages: write        # allow this workflow to publish to Pages
+  contents: read      # allow reading your code
+  id-token: write     # required for environments, safe to include
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Check out your code
+      - uses: actions/checkout@v4
+
+      # 2) Install Zola
+      - name: Install Zola
+        uses: webfreak124/zola-action@v1
+        with:
+          version: "0.17.2"
+
+      # 3) Build the site into `public/`
+      - name: Build site
+        run: zola build
+
+      # 4) Upload the `public/` folder as the Pages artifact
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    steps:
+      # 5) Deploy that artifact to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
